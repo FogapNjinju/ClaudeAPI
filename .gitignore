@@ -1,0 +1,22 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+**/venv/
+**/env/
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# VS Code settings and workspace files
+.vscode/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
